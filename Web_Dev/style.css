@@ -1,0 +1,106 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+/* Navbar */
+nav {
+  background-color: #ffffff;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav ul li {
+  margin-left: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.get-involved-btn {
+  background-color: #7e3cc8;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+
+/* Main Section */
+.main-section {
+  background-image: url("your-image-url-here.jpg"); /* You can replace this with the actual image URL */
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+}
+
+.main-section .content {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 50px;
+  border-radius: 10px;
+}
+
+.main-section h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.main-section p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.explore-btn {
+  background-color: #7e3cc8;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+/* Explore Section */
+.explore-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #f7f7f7;
+}
+
+.explore-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #7e3cc8;
+}
+
+.explore-section p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.learn-more-btn {
+  background-color: #7e3cc8;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+}
