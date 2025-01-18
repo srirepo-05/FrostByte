@@ -17,7 +17,7 @@ We propose a comprehensive system consisting of:
 - **Remote Sensing Data**: Satellite imagery and data will be used to monitor changes in lake size and detect potential threats.
 - **Machine Learning Models**: Advanced ML algorithms analyze sensor and remote sensing data to detect early warning signs of GLOFs.
 - **Early Warning System**: Once a potential GLOF is detected, the system will trigger an early warning, allowing authorities and communities to respond in time.
-![logo](https://github.com/ipsita-kar/FrostByte/blob/main/Images/WhatsApp%20Image%202024-12-30%20at%2008.14.20.jpeg)
+![logo](https://github.com/srirepo-05/FrostByte/blob/main/Images/image.png)
 
 ## **Innovation and Uniqueness**
 - **Edge Computing**: Data processing happens at the edge, near the sensors, reducing latency and enabling real-time monitoring.
